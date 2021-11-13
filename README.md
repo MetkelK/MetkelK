@@ -1,6 +1,6 @@
 # Hey, 👋 I'm Metkel
 
-## I'm a Front-End Developer with a passion for continuous learning. 
+## I'm a Software Developer with a passion for continuous learning. 
 
 
 <img align="left" width="300" src="https://i.pinimg.com/originals/28/b6/a3/28b6a3159a41aa70441ec2277c9638ce.gif" />
